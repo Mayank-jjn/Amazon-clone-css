@@ -31,10 +31,8 @@ Improve design consistency and attention to detail
 
 📸 Preview
 ![Screenshot (205)](https://github.com/user-attachments/assets/eee58c69-1a91-4e41-9768-183b20420d60)
-![Screenshot (206)](https://github.com/user-attachments/assets/5dc84ed1-fb30-4328-8922-f093ff7d100e)
-![Screenshot (207)](https://github.com/user-attachments/assets/251edbee-834b-47e3-bef5-ea921c110d83)
-
-(Add screenshots or a link to the live site if available)
+![Screenshot (206)](https://github.com/user-attachments/assets/30607e98-94af-4237-9712-390cc34eea04)
+![Screenshot (207)](https://github.com/user-attachments/assets/7a70c3a9-4f3f-4e32-a3d0-24ecd36d489d)
 
 📂 Project Status
 ✅ Completed – front-end UI is functional and responsive.
