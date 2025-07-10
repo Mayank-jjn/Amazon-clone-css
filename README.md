@@ -30,11 +30,13 @@ Improve design consistency and attention to detail
 ⭐ Font Awesome (icons)
 
 📸 Preview
+
 ![Screenshot 2025-07-09 223137](https://github.com/user-attachments/assets/e10c3f46-763f-4f74-b3e5-147c34e830bc)
 ![Screenshot 2025-07-09 223158](https://github.com/user-attachments/assets/bc3e731f-f0f8-4963-980b-001e7e966ddd)
 ![Screenshot 2025-07-09 223218](https://github.com/user-attachments/assets/7fedc8b2-0c17-44bb-b13c-837f4e363137)
 
 📂 Project Status
+
 ✅ Completed – front-end UI is functional and responsive.
 🚫 No interactivity or real product data is included.
 
