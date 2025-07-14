@@ -324,3 +324,100 @@ ul a{
 .copyright {
     padding-top: 4px;
 }
+
+
+/* Mobile Devices */
+@media (max-width: 600px) {
+    #navbar {
+        flex-wrap: wrap;
+        height: auto;
+        justify-content: center;
+    }
+
+    #nav_logo {
+        margin: 5px 0;
+    }
+
+    #nav_search {
+        width: 90%;
+        margin: 10px 0;
+    }
+
+    #panel_ops {
+        display: none;
+    }
+
+    #panel_deals {
+        display: none;
+    }
+
+    .shop_section {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .box {
+        width: 90%;
+    }
+
+    .foot_panel2 {
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+    }
+
+    .foot_panel2 ul {
+        margin-bottom: 20px;
+    }
+}
+
+/* Tablets */
+@media (max-width: 900px) {
+    #nav_search {
+        width: 400px;
+    }
+
+    #panel_ops {
+        width: auto;
+    }
+
+    .shop_section {
+        justify-content: center;
+    }
+
+    .box {
+        width: 45%;
+        margin: 10px;
+    }
+
+    .foot_panel2 {
+        flex-wrap: wrap;
+        height: auto;
+    }
+}
+
+@media (max-width: 600px) {
+    #hero_section {
+        height: 200px;
+        background-position: center;
+    }
+
+    #hero_message {
+        width: 90%;
+        font-size: 0.75rem;
+        height: 30px;
+    }
+}
+
+@media (max-width: 900px) {
+    #hero_section {
+        height: 250px;
+        background-position: center;
+    }
+
+    #hero_message {
+        width: 95%;
+        font-size: 0.8rem;
+        height: 35px;
+    }
+}
